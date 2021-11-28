@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+}
+#carouselExampleIndicators{
+    background-color: linear-gradient(to right,rgb(172, 172, 98),rgb(66, 105, 105));
+}
+
+img .graph{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 50px;
+  }
